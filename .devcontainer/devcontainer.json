@@ -1,0 +1,4 @@
+{
+  "name": "Hadoop-Class-Official",
+  "image": "mcr.microsoft.com/devcontainers/java:1-8-bullseye"
+}
